@@ -1,0 +1,4 @@
+recursive-include autost/hdbox *
+recursive-include autost/tools *
+recursive-include autost/report *
+recursive-include autost/device *

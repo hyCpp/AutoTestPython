@@ -1,0 +1,1072 @@
+{
+    "payload": {
+        "className": "RadioBase",
+        "enable": true,
+        "visible": true,
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+    },
+    "child": [
+        {
+            "payload": {
+                "className": "AbsLayout",
+                "enable": true,
+                "visible": true,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            },
+            "child": [
+                {
+                    "payload": {
+                        "className": "CC_BandButton",
+                        "enable": true,
+                        "visible": true,
+                        "x": 1446,
+                        "y": 186,
+                        "width": 398,
+                        "height": 120,
+                        "press": false,
+                        "select": false,
+                        "clickable": true,
+                        "longClickable": false
+                    },
+                    "child": [
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1446,
+                                "y": 186,
+                                "width": 60,
+                                "height": 120
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1506,
+                                "y": 186,
+                                "width": 278,
+                                "height": 120
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1784,
+                                "y": 186,
+                                "width": 60,
+                                "height": 120
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "TextBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1446,
+                                "y": 186,
+                                "width": 398,
+                                "height": 120,
+                                "text": "AM.FM"
+                            },
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "payload": {
+                        "className": "CC_BandButton",
+                        "enable": true,
+                        "visible": true,
+                        "x": 1446,
+                        "y": 346,
+                        "width": 398,
+                        "height": 120,
+                        "press": false,
+                        "select": false,
+                        "clickable": true,
+                        "longClickable": false
+                    },
+                    "child": [
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1446,
+                                "y": 346,
+                                "width": 60,
+                                "height": 120
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1506,
+                                "y": 346,
+                                "width": 278,
+                                "height": 120
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1784,
+                                "y": 346,
+                                "width": 60,
+                                "height": 120
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "TextBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1446,
+                                "y": 346,
+                                "width": 398,
+                                "height": 120,
+                                "text": "扫描"
+                            },
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "payload": {
+                        "className": "TextBase",
+                        "enable": true,
+                        "visible": true,
+                        "x": 550,
+                        "y": 108,
+                        "width": 882,
+                        "height": 80,
+                        "text": ""
+                    },
+                    "child": []
+                },
+                {
+                    "payload": {
+                        "className": "TextBase",
+                        "enable": true,
+                        "visible": true,
+                        "x": 686,
+                        "y": 130,
+                        "width": 520,
+                        "height": 334,
+                        "text": "87.5"
+                    },
+                    "child": []
+                },
+                {
+                    "payload": {
+                        "className": "TextBase",
+                        "enable": true,
+                        "visible": true,
+                        "x": 1220,
+                        "y": 310,
+                        "width": 170,
+                        "height": 92,
+                        "text": "MHz"
+                    },
+                    "child": []
+                },
+                {
+                    "payload": {
+                        "className": "TextBase",
+                        "enable": true,
+                        "visible": true,
+                        "x": 550,
+                        "y": 410,
+                        "width": 882,
+                        "height": 80,
+                        "text": ""
+                    },
+                    "child": []
+                },
+                {
+                    "payload": {
+                        "className": "CC_RadioControlBar",
+                        "enable": true,
+                        "visible": true,
+                        "x": 634,
+                        "y": 512,
+                        "width": 814,
+                        "height": 188
+                    },
+                    "child": [
+                        {
+                            "payload": {
+                                "className": "CC_Button_1M",
+                                "enable": true,
+                                "visible": true,
+                                "x": 634,
+                                "y": 512,
+                                "width": 136,
+                                "height": 136,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ButtonLayout",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 634,
+                                        "y": 512,
+                                        "width": 136,
+                                        "height": 136,
+                                        "press": false,
+                                        "select": false,
+                                        "clickable": false,
+                                        "longClickable": false
+                                    },
+                                    "child": [
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 634,
+                                                "y": 512,
+                                                "width": 136,
+                                                "height": 136
+                                            },
+                                            "child": []
+                                        },
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 634,
+                                                "y": 512,
+                                                "width": 200,
+                                                "height": 200
+                                            },
+                                            "child": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_Button_1M",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1312,
+                                "y": 512,
+                                "width": 136,
+                                "height": 136,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ButtonLayout",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1312,
+                                        "y": 512,
+                                        "width": 136,
+                                        "height": 136,
+                                        "press": false,
+                                        "select": false,
+                                        "clickable": false,
+                                        "longClickable": false
+                                    },
+                                    "child": [
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 1312,
+                                                "y": 512,
+                                                "width": 136,
+                                                "height": 136
+                                            },
+                                            "child": []
+                                        },
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 1312,
+                                                "y": 512,
+                                                "width": 200,
+                                                "height": 200
+                                            },
+                                            "child": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_Button_1M",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1086,
+                                "y": 512,
+                                "width": 136,
+                                "height": 136,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ButtonLayout",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1086,
+                                        "y": 512,
+                                        "width": 136,
+                                        "height": 136,
+                                        "press": false,
+                                        "select": false,
+                                        "clickable": false,
+                                        "longClickable": false
+                                    },
+                                    "child": [
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 1086,
+                                                "y": 512,
+                                                "width": 136,
+                                                "height": 136
+                                            },
+                                            "child": []
+                                        },
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 1086,
+                                                "y": 512,
+                                                "width": 200,
+                                                "height": 200
+                                            },
+                                            "child": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_Button_1M",
+                                "enable": true,
+                                "visible": true,
+                                "x": 860,
+                                "y": 512,
+                                "width": 136,
+                                "height": 136,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ButtonLayout",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 860,
+                                        "y": 512,
+                                        "width": 136,
+                                        "height": 136,
+                                        "press": false,
+                                        "select": false,
+                                        "clickable": false,
+                                        "longClickable": false
+                                    },
+                                    "child": [
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 860,
+                                                "y": 512,
+                                                "width": 136,
+                                                "height": 136
+                                            },
+                                            "child": []
+                                        },
+                                        {
+                                            "payload": {
+                                                "className": "ImageBase",
+                                                "enable": true,
+                                                "visible": true,
+                                                "x": 860,
+                                                "y": 512,
+                                                "width": 200,
+                                                "height": 200
+                                            },
+                                            "child": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 974,
+                                "y": 658,
+                                "width": 134,
+                                "height": 16
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "TextBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 993,
+                                "y": 640,
+                                "width": 96,
+                                "height": 60,
+                                "text": "TUNE"
+                            },
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "payload": {
+                        "className": "CC_RadioPresetList",
+                        "enable": true,
+                        "visible": true,
+                        "x": 236,
+                        "y": 710,
+                        "width": 1610,
+                        "height": 260
+                    },
+                    "child": [
+                        {
+                            "payload": {
+                                "className": "CC_RadioPresetItem",
+                                "enable": true,
+                                "visible": true,
+                                "x": 236,
+                                "y": 710,
+                                "width": 260,
+                                "height": 260,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 236,
+                                        "y": 710,
+                                        "width": 260,
+                                        "height": 260
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 262,
+                                        "y": 733,
+                                        "width": 44,
+                                        "height": 44
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 260,
+                                        "y": 727,
+                                        "width": 44,
+                                        "height": 56,
+                                        "text": "1"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 260,
+                                        "y": 799,
+                                        "width": 226,
+                                        "height": 90,
+                                        "text": "87.5"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 260,
+                                        "y": 899,
+                                        "width": 160,
+                                        "height": 56,
+                                        "text": "MHz"
+                                    },
+                                    "child": []
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_RadioPresetItem",
+                                "enable": true,
+                                "visible": true,
+                                "x": 506,
+                                "y": 710,
+                                "width": 260,
+                                "height": 260,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 506,
+                                        "y": 710,
+                                        "width": 260,
+                                        "height": 260
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 532,
+                                        "y": 733,
+                                        "width": 44,
+                                        "height": 44
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 530,
+                                        "y": 727,
+                                        "width": 44,
+                                        "height": 56,
+                                        "text": "2"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 530,
+                                        "y": 799,
+                                        "width": 226,
+                                        "height": 90,
+                                        "text": "93.1"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 530,
+                                        "y": 899,
+                                        "width": 160,
+                                        "height": 56,
+                                        "text": "MHz"
+                                    },
+                                    "child": []
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_RadioPresetItem",
+                                "enable": true,
+                                "visible": true,
+                                "x": 776,
+                                "y": 710,
+                                "width": 260,
+                                "height": 260,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 776,
+                                        "y": 710,
+                                        "width": 260,
+                                        "height": 260
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 802,
+                                        "y": 733,
+                                        "width": 44,
+                                        "height": 44
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 800,
+                                        "y": 727,
+                                        "width": 44,
+                                        "height": 56,
+                                        "text": "3"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 800,
+                                        "y": 799,
+                                        "width": 226,
+                                        "height": 90,
+                                        "text": "98.1"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 800,
+                                        "y": 899,
+                                        "width": 160,
+                                        "height": 56,
+                                        "text": "MHz"
+                                    },
+                                    "child": []
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_RadioPresetItem",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1046,
+                                "y": 710,
+                                "width": 260,
+                                "height": 260,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1046,
+                                        "y": 710,
+                                        "width": 260,
+                                        "height": 260
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1072,
+                                        "y": 733,
+                                        "width": 44,
+                                        "height": 44
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1070,
+                                        "y": 727,
+                                        "width": 44,
+                                        "height": 56,
+                                        "text": "4"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1070,
+                                        "y": 799,
+                                        "width": 226,
+                                        "height": 90,
+                                        "text": "105.1"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1070,
+                                        "y": 899,
+                                        "width": 160,
+                                        "height": 56,
+                                        "text": "MHz"
+                                    },
+                                    "child": []
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_RadioPresetItem",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1316,
+                                "y": 710,
+                                "width": 260,
+                                "height": 260,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1316,
+                                        "y": 710,
+                                        "width": 260,
+                                        "height": 260
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1342,
+                                        "y": 733,
+                                        "width": 44,
+                                        "height": 44
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1340,
+                                        "y": 727,
+                                        "width": 44,
+                                        "height": 56,
+                                        "text": "5"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1340,
+                                        "y": 799,
+                                        "width": 226,
+                                        "height": 90,
+                                        "text": "107.9"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1340,
+                                        "y": 899,
+                                        "width": 160,
+                                        "height": 56,
+                                        "text": "MHz"
+                                    },
+                                    "child": []
+                                }
+                            ]
+                        },
+                        {
+                            "payload": {
+                                "className": "CC_RadioPresetItem",
+                                "enable": true,
+                                "visible": true,
+                                "x": 1586,
+                                "y": 710,
+                                "width": 260,
+                                "height": 260,
+                                "press": false,
+                                "select": false,
+                                "clickable": true,
+                                "longClickable": false
+                            },
+                            "child": [
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1586,
+                                        "y": 710,
+                                        "width": 260,
+                                        "height": 260
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "ImageBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1612,
+                                        "y": 733,
+                                        "width": 44,
+                                        "height": 44
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1610,
+                                        "y": 727,
+                                        "width": 44,
+                                        "height": 56,
+                                        "text": "6"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1610,
+                                        "y": 799,
+                                        "width": 226,
+                                        "height": 90,
+                                        "text": "108.0"
+                                    },
+                                    "child": []
+                                },
+                                {
+                                    "payload": {
+                                        "className": "TextBase",
+                                        "enable": true,
+                                        "visible": true,
+                                        "x": 1610,
+                                        "y": 899,
+                                        "width": 160,
+                                        "height": 56,
+                                        "text": "MHz"
+                                    },
+                                    "child": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "payload": {
+                        "className": "AbsLayout",
+                        "enable": true,
+                        "visible": true,
+                        "x": 390,
+                        "y": 210,
+                        "width": 292,
+                        "height": 114
+                    },
+                    "child": [
+                        {
+                            "payload": {
+                                "className": "TextBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 390,
+                                "y": 210,
+                                "width": 216,
+                                "height": 114,
+                                "text": "预置"
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "ImageBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 612,
+                                "y": 232,
+                                "width": 70,
+                                "height": 70
+                            },
+                            "child": []
+                        },
+                        {
+                            "payload": {
+                                "className": "TextBase",
+                                "enable": true,
+                                "visible": true,
+                                "x": 612,
+                                "y": 232,
+                                "width": 70,
+                                "height": 70,
+                                "text": "1"
+                            },
+                            "child": []
+                        }
+                    ]
+                },
+                {
+                    "payload": {
+                        "className": "ButtonLayout",
+                        "enable": true,
+                        "visible": true,
+                        "x": 200,
+                        "y": 0,
+                        "width": 200,
+                        "height": 200,
+                        "press": false,
+                        "select": false,
+                        "clickable": true,
+                        "longClickable": false
+                    },
+                    "child": []
+                },
+                {
+                    "payload": {
+                        "className": "ButtonLayout",
+                        "enable": true,
+                        "visible": true,
+                        "x": 200,
+                        "y": 880,
+                        "width": 200,
+                        "height": 200,
+                        "press": false,
+                        "select": false,
+                        "clickable": true,
+                        "longClickable": false
+                    },
+                    "child": []
+                },
+                {
+                    "payload": {
+                        "className": "ButtonLayout",
+                        "enable": true,
+                        "visible": true,
+                        "x": 1720,
+                        "y": 880,
+                        "width": 200,
+                        "height": 200,
+                        "press": false,
+                        "select": false,
+                        "clickable": true,
+                        "longClickable": false
+                    },
+                    "child": []
+                }
+            ]
+        }
+    ]
+}

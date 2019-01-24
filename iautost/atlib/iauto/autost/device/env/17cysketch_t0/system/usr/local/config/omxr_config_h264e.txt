@@ -1,0 +1,29 @@
+#############################################################################
+#
+# PURPOSE
+#   OMX Media Component Configuration File
+#
+# AUTHOR
+#   Renesas Electronics Corporation
+#
+#############################################################################
+#
+#  Copyright(C) 2013 Renesas Electronics Corporation. All Rights Reserved.
+#  RENESAS ELECTRONICS CONFIDENTIAL AND PROPRIETARY
+#  This program must be used solely for the purpose for which
+#  it was furnished by Renesas Electronics Corporation.
+#  No part of this program may be reproduced or disclosed to
+#  others, in any form, without the prior written permission
+#  of Renesas Electronics Corporation.
+#
+#############################################################################
+
+#############################################################################
+# Media Component Information
+
+[MCTRL]
+NAME           = OMX.RENESAS.VIDEO.ENCODER.H264
+FILE           = libomxr_mc_h264e.$(DLL_EXTENSION)
++PORT_INFO1    = $(V_ENC_PICTURE_BUFF_COUNT_DEFAULT),  $(V_ENC_PICTURE_BUFF_SIZE)
++PORT_INFO2    = $(V_ENC_STREAM_BUFF_COUNT_DEFAULT), $(V_ENC_STREAM_BUFF_SIZE)
+

@@ -1,0 +1,17 @@
+setup manual 20181116
+
+一、硬件准备
+1.PC（Win7）/实机/TBox（二代盒子）
+2.接线：串口/网线/TBox连接线
+
+二、PC端操作手顺
+1.python及python-lib安装
+参见atlib\docs\setup.txt
+
+2.部署iauto2test服务至实机
+（1）python machine\tx_power_on.py（如实机已经启动，该步骤可跳过）
+（2）python machine\tx_setup.py
+（3）python machine\tx_reboot.py
+
+三、启动IDE
+命令行窗口中执行python main.py（或者双击main.py）

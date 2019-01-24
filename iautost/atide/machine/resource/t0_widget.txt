@@ -1,0 +1,3634 @@
+{
+	"child": [{
+		"child": [{
+			"payload": {
+				"visible": false,
+				"enabled": true,
+				"x": 0,
+				"y": 0,
+				"objectName": "",
+				"width": 0,
+				"type": 0,
+				"height": 0
+			}
+		},
+		{
+			"child": [{
+				"payload": {
+					"visible": true,
+					"enabled": true,
+					"x": 0,
+					"y": 0,
+					"objectName": "",
+					"width": 800,
+					"type": 6,
+					"height": 64
+				}
+			},
+			{
+				"payload": {
+					"visible": true,
+					"enabled": true,
+					"x": 240,
+					"y": 64,
+					"objectName": "",
+					"width": 560,
+					"type": 7,
+					"height": 416
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 0,
+					"y": 64,
+					"objectName": "",
+					"width": 240,
+					"type": 6,
+					"height": 416
+				}
+			}],
+			"payload": {
+				"visible": true,
+				"enabled": true,
+				"x": 0,
+				"y": 0,
+				"objectName": "screenBg",
+				"width": 800,
+				"type": 0,
+				"height": 480
+			}
+		},
+		{
+			"child": [{
+				"payload": {
+					"visible": true,
+					"enabled": true,
+					"x": 12,
+					"y": 7,
+					"objectName": "",
+					"width": 469,
+					"type": 81,
+					"height": 51
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 0,
+					"y": 0,
+					"objectName": "",
+					"width": 0,
+					"type": 7,
+					"height": 0
+				}
+			}],
+			"payload": {
+				"visible": true,
+				"enabled": true,
+				"x": 0,
+				"y": 0,
+				"objectName": "titlebar",
+				"width": 800,
+				"type": 0,
+				"height": 64
+			}
+		},
+		{
+			"child": [{
+				"child": [{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 719,
+						"y": 107,
+						"objectName": "scaningText",
+						"width": 69,
+						"type": 81,
+						"height": 31
+					}
+				},
+				{
+					"payload": {
+						"text": [{
+							"text": "SCAN"
+						}],
+						"visible": false,
+						"enabled": true,
+						"x": 671,
+						"y": 236,
+						"objectName": "scanButton",
+						"width": 120,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 262,
+						"y": 95,
+						"objectName": "frequency",
+						"width": 95,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 367,
+						"y": 104,
+						"objectName": "frequencyUnit",
+						"width": 111,
+						"type": 81,
+						"height": 35
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 678,
+						"y": 107,
+						"objectName": "scaningTextUC",
+						"width": 110,
+						"type": 81,
+						"height": 31
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 262,
+						"y": 95,
+						"objectName": "bandName",
+						"width": 61,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 333,
+						"y": 95,
+						"objectName": "frequencyUC",
+						"width": 79,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 422,
+						"y": 95,
+						"objectName": "stationName",
+						"width": 231,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"child": [{
+						"child": [{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 422,
+								"y": 94,
+								"objectName": "",
+								"width": 173,
+								"type": 81,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 600,
+								"y": 94,
+								"objectName": "",
+								"width": 48,
+								"type": 63,
+								"height": 48
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 422,
+							"y": 94,
+							"objectName": "",
+							"width": 226,
+							"type": 74,
+							"height": 48
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 422,
+						"y": 94,
+						"objectName": "stationNameScroll",
+						"width": 226,
+						"type": 0,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 257,
+						"y": 143,
+						"objectName": "hdIcon",
+						"width": 40,
+						"type": 7,
+						"height": 40
+					}
+				},
+				{
+					"child": [{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 658,
+							"y": 140,
+							"objectName": "",
+							"width": 130,
+							"type": 6,
+							"height": 130
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 658,
+							"y": 140,
+							"objectName": "",
+							"width": 130,
+							"type": 7,
+							"height": 130
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 668,
+							"y": 150,
+							"objectName": "",
+							"width": 110,
+							"type": 7,
+							"height": 110
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 658,
+						"y": 140,
+						"objectName": "artWork",
+						"width": 130,
+						"type": 0,
+						"height": 130
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 252,
+						"y": 188,
+						"objectName": "metaDataButton",
+						"width": 351,
+						"type": 63,
+						"height": 97
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 252,
+						"y": 192,
+						"objectName": "artistIcon",
+						"width": 40,
+						"type": 7,
+						"height": 40
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 252,
+						"y": 192,
+						"objectName": "albumIcon",
+						"width": 40,
+						"type": 7,
+						"height": 40
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 252,
+						"y": 241,
+						"objectName": "titleIcon",
+						"width": 40,
+						"type": 7,
+						"height": 40
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 252,
+						"y": 241,
+						"objectName": "genreIcon",
+						"width": 40,
+						"type": 7,
+						"height": 40
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 297,
+						"y": 189,
+						"objectName": "artistInfo",
+						"width": 298,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 297,
+						"y": 238,
+						"objectName": "titleInfo",
+						"width": 298,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 578,
+						"y": 287,
+						"objectName": "graceNote",
+						"width": 130,
+						"type": 7,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 249,
+						"y": 73,
+						"objectName": "errorRateLeftButton",
+						"width": 70,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 721,
+						"y": 73,
+						"objectName": "errorRateRightButton",
+						"width": 70,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 309,
+						"y": 95,
+						"objectName": "errorRateFrequency",
+						"width": 244,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 563,
+						"y": 95,
+						"objectName": "errorRateOf",
+						"width": 28,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 601,
+						"y": 95,
+						"objectName": "errorRatePage",
+						"width": 98,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 309,
+						"y": 95,
+						"objectName": "errorRateFrequencyCN",
+						"width": 157,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 476,
+						"y": 95,
+						"objectName": "errorRateCNText",
+						"width": 37,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 632,
+						"y": 95,
+						"objectName": "errorRateOfCN",
+						"width": 28,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 670,
+						"y": 95,
+						"objectName": "errorRatePageCN",
+						"width": 29,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 310,
+						"y": 157,
+						"objectName": "errorRateInfo1",
+						"width": 244,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 309,
+						"y": 219,
+						"objectName": "errorRateInfo2",
+						"width": 244,
+						"type": 81,
+						"height": 45
+					}
+				},
+				{
+					"child": [{
+						"child": [{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 721,
+								"y": 286,
+								"objectName": "",
+								"width": 70,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 249,
+								"y": 286,
+								"objectName": "",
+								"width": 70,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 249,
+								"y": 286,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 10
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 249,
+								"y": 286,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 0
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 249,
+							"y": 286,
+							"objectName": "",
+							"width": 542,
+							"type": 75,
+							"height": 48
+						}
+					},
+					{
+						"child": [{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 415,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 421,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 427,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 433,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 439,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 445,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 451,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 457,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 463,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 469,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 475,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 481,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 487,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 493,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 499,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 505,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 511,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 517,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 523,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 529,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 535,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 541,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 547,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 553,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 559,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 565,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 571,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 577,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 583,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 589,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 595,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 601,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 607,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 613,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 619,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 415,
+							"y": 320,
+							"objectName": "",
+							"width": 210,
+							"type": 0,
+							"height": 6
+						}
+					},
+					{
+						"child": [{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 249,
+								"y": 336,
+								"objectName": "NQFlickablecontentItem",
+								"width": 0,
+								"type": 0,
+								"height": 122
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 249,
+							"y": 336,
+							"objectName": "cc_radioTable",
+							"width": 542,
+							"type": 67,
+							"height": 122
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 249,
+						"y": 286,
+						"objectName": "presetList",
+						"width": 542,
+						"type": 0,
+						"height": 172
+					}
+				},
+				{
+					"child": [{
+						"child": [{
+							"payload": {
+								"text": [],
+								"visible": true,
+								"enabled": true,
+								"x": 721,
+								"y": 286,
+								"objectName": "",
+								"width": 70,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"text": [],
+								"visible": true,
+								"enabled": true,
+								"x": 249,
+								"y": 286,
+								"objectName": "",
+								"width": 70,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"visible": true,
+								"enabled": true,
+								"x": 249,
+								"y": 286,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 10
+							}
+						},
+						{
+							"payload": {
+								"visible": true,
+								"enabled": true,
+								"x": 249,
+								"y": 286,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 0
+							}
+						}],
+						"payload": {
+							"visible": true,
+							"enabled": true,
+							"x": 249,
+							"y": 286,
+							"objectName": "",
+							"width": 542,
+							"type": 75,
+							"height": 48
+						}
+					},
+					{
+						"child": [{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 415,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 421,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 427,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 433,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 439,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 445,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 451,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 457,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 463,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 469,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 475,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 481,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 487,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 493,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 499,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 505,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 511,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 517,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 523,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 529,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 535,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 541,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 547,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 553,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 559,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 565,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 571,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 577,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 583,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 589,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 595,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 601,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 607,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 613,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 619,
+								"y": 320,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 415,
+							"y": 320,
+							"objectName": "",
+							"width": 210,
+							"type": 0,
+							"height": 6
+						}
+					},
+					{
+						"child": [{
+							"child": [{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 249,
+									"y": 336,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 431,
+									"y": 336,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 613,
+									"y": 336,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 249,
+									"y": 398,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 431,
+									"y": 398,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 613,
+									"y": 398,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 795,
+									"y": 336,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 977,
+									"y": 336,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 1159,
+									"y": 336,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 795,
+									"y": 398,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 977,
+									"y": 398,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": ""
+									},
+									{
+										"text": "(Add New)"
+									}],
+									"visible": true,
+									"enabled": true,
+									"x": 1159,
+									"y": 398,
+									"objectName": "mListbtnUC",
+									"width": 178,
+									"type": 63,
+									"height": 60
+								}
+							}],
+							"payload": {
+								"visible": true,
+								"enabled": true,
+								"x": 249,
+								"y": 336,
+								"objectName": "NQFlickablecontentItem",
+								"width": 2908,
+								"type": 0,
+								"height": 122
+							}
+						}],
+						"payload": {
+							"visible": true,
+							"enabled": true,
+							"x": 249,
+							"y": 336,
+							"objectName": "cc_radioTable",
+							"width": 542,
+							"type": 67,
+							"height": 122
+						}
+					}],
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 249,
+						"y": 286,
+						"objectName": "mixPresetList",
+						"width": 542,
+						"type": 0,
+						"height": 172
+					}
+				}],
+				"payload": {
+					"visible": true,
+					"enabled": true,
+					"x": 0,
+					"y": 0,
+					"objectName": "AmPreset",
+					"width": 800,
+					"type": 33,
+					"height": 480
+				}
+			},
+			{
+				"child": [{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 252,
+						"y": 64,
+						"objectName": "txtAudioOff",
+						"width": 110,
+						"type": 81,
+						"height": 31
+					}
+				},
+				{
+					"child": [{
+						"child": [{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 756,
+								"y": 212,
+								"objectName": "",
+								"width": 48,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 236,
+								"y": 212,
+								"objectName": "",
+								"width": 48,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 240,
+								"y": 212,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 10
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 240,
+								"y": 212,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 0
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 240,
+							"y": 212,
+							"objectName": "",
+							"width": 560,
+							"type": 75,
+							"height": 48
+						}
+					},
+					{
+						"child": [{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 462,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 468,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 474,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 480,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 486,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 517,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 498,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 504,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 510,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 516,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 522,
+								"y": 385,
+								"objectName": "",
+								"width": 6,
+								"type": 7,
+								"height": 6
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 462,
+							"y": 385,
+							"objectName": "",
+							"width": 116,
+							"type": 0,
+							"height": 6
+						}
+					},
+					{
+						"child": [{
+							"child": [{
+								"payload": {
+									"text": [{
+										"text": "AM"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 285,
+									"y": 95,
+									"objectName": "NQBC_NQItemView_Item0",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "FM"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 445,
+									"y": 95,
+									"objectName": "NQBC_NQItemView_Item1",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "USB"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 605,
+									"y": 95,
+									"objectName": "NQBC_NQItemView_Item2",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "Bluetooth"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 285,
+									"y": 241,
+									"objectName": "NQBC_NQItemView_Item3",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							}],
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 285,
+								"y": 95,
+								"objectName": "NQFlickablecontentItem",
+								"width": 150,
+								"type": 0,
+								"height": 286
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 285,
+							"y": 95,
+							"objectName": "srcSelectList",
+							"width": 470,
+							"type": 67,
+							"height": 286
+						}
+					},
+					{
+						"child": [{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 756,
+								"y": 212,
+								"objectName": "",
+								"width": 48,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"text": [],
+								"visible": false,
+								"enabled": true,
+								"x": 236,
+								"y": 212,
+								"objectName": "",
+								"width": 48,
+								"type": 63,
+								"height": 48
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 240,
+								"y": 212,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 10
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 240,
+								"y": 212,
+								"objectName": "",
+								"width": 0,
+								"type": 6,
+								"height": 0
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 240,
+							"y": 212,
+							"objectName": "",
+							"width": 560,
+							"type": 75,
+							"height": 48
+						}
+					},
+					{
+						"child": [{
+							"child": [{
+								"payload": {
+									"text": [{
+										"text": "AM"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 285,
+									"y": 95,
+									"objectName": "NQBC_NQItemView_Item0",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "FM"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 445,
+									"y": 95,
+									"objectName": "NQBC_NQItemView_Item1",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "USB"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 605,
+									"y": 95,
+									"objectName": "NQBC_NQItemView_Item2",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "USB 2"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 285,
+									"y": 241,
+									"objectName": "NQBC_NQItemView_Item3",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							},
+							{
+								"payload": {
+									"text": [{
+										"text": "Bluetooth"
+									}],
+									"visible": false,
+									"enabled": true,
+									"x": 445,
+									"y": 241,
+									"objectName": "NQBC_NQItemView_Item4",
+									"width": 150,
+									"type": 63,
+									"height": 140
+								}
+							}],
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 285,
+								"y": 95,
+								"objectName": "NQFlickablecontentItem",
+								"width": 150,
+								"type": 0,
+								"height": 286
+							}
+						}],
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 285,
+							"y": 95,
+							"objectName": "reorderList",
+							"width": 470,
+							"type": 67,
+							"height": 286
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 240,
+							"y": 95,
+							"objectName": "insertImg",
+							"width": 20,
+							"type": 7,
+							"height": 138
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 240,
+						"y": 95,
+						"objectName": "",
+						"width": 560,
+						"type": 0,
+						"height": 286
+					}
+				},
+				{
+					"child": [{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 462,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 468,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 474,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 480,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 486,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 517,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 498,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 504,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 510,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 516,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					},
+					{
+						"payload": {
+							"visible": false,
+							"enabled": true,
+							"x": 522,
+							"y": 385,
+							"objectName": "",
+							"width": 6,
+							"type": 7,
+							"height": 6
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 462,
+						"y": 385,
+						"objectName": "",
+						"width": 116,
+						"type": 0,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"text": [{
+							"text": "Reorder"
+						}],
+						"visible": false,
+						"enabled": true,
+						"x": 407,
+						"y": 398,
+						"objectName": "btnReorder",
+						"width": 226,
+						"type": 63,
+						"height": 60
+					}
+				},
+				{
+					"payload": {
+						"text": [{
+							"text": "OK"
+						}],
+						"visible": false,
+						"enabled": true,
+						"x": 659,
+						"y": 398,
+						"objectName": "",
+						"width": 132,
+						"type": 63,
+						"height": 60
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 385,
+						"y": 398,
+						"objectName": "btnLeft",
+						"width": 132,
+						"type": 63,
+						"height": 60
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 521,
+						"y": 398,
+						"objectName": "btnRight",
+						"width": 132,
+						"type": 63,
+						"height": 60
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 0,
+					"y": 0,
+					"objectName": "SourceSelect",
+					"width": 800,
+					"type": 33,
+					"height": 480
+				}
+			}],
+			"payload": {
+				"visible": true,
+				"enabled": true,
+				"x": 0,
+				"y": 0,
+				"objectName": "",
+				"width": 0,
+				"type": 32,
+				"height": 0
+			}
+		},
+		{
+			"child": [{
+				"payload": {
+					"visible": true,
+					"enabled": true,
+					"x": 0,
+					"y": 64,
+					"objectName": "",
+					"width": 240,
+					"type": 6,
+					"height": 416
+				}
+			},
+			{
+				"child": [{
+					"child": [{
+						"child": [{
+							"payload": {
+								"visible": true,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						},
+						{
+							"payload": {
+								"visible": false,
+								"enabled": true,
+								"x": 232,
+								"y": 139.912292,
+								"objectName": "",
+								"width": 8,
+								"type": 7,
+								"height": 61
+							}
+						}],
+						"payload": {
+							"visible": true,
+							"enabled": true,
+							"x": 232,
+							"y": 139.912292,
+							"objectName": "",
+							"width": 8,
+							"type": 68,
+							"height": 61
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Source"
+							}],
+							"visible": true,
+							"enabled": true,
+							"x": 0,
+							"y": 87,
+							"objectName": "mListBtn",
+							"width": 240,
+							"type": 63,
+							"height": 61
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Presets"
+							}],
+							"visible": true,
+							"enabled": true,
+							"x": 0,
+							"y": 149,
+							"objectName": "mListBtn",
+							"width": 240,
+							"type": 63,
+							"height": 61
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Station List"
+							}],
+							"visible": true,
+							"enabled": true,
+							"x": 0,
+							"y": 211,
+							"objectName": "mListBtn",
+							"width": 240,
+							"type": 63,
+							"height": 61
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Options"
+							}],
+							"visible": true,
+							"enabled": true,
+							"x": 0,
+							"y": 273,
+							"objectName": "mListBtn",
+							"width": 240,
+							"type": 63,
+							"height": 61
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Sound"
+							}],
+							"visible": true,
+							"enabled": true,
+							"x": 0,
+							"y": 335,
+							"objectName": "mListBtn",
+							"width": 240,
+							"type": 63,
+							"height": 61
+						}
+					}],
+					"payload": {
+						"visible": true,
+						"enabled": true,
+						"x": 0,
+						"y": 87,
+						"objectName": "NQFlickablecontentItem",
+						"width": 240,
+						"type": 0,
+						"height": 309
+					}
+				}],
+				"payload": {
+					"visible": true,
+					"enabled": true,
+					"x": 0,
+					"y": 87,
+					"objectName": "cc_subMenu",
+					"width": 240,
+					"type": 77,
+					"height": 371
+				}
+			},
+			{
+				"child": [{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": -240,
+						"y": 87,
+						"objectName": "NQFlickablecontentItem",
+						"width": 240,
+						"type": 0,
+						"height": 0
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": -240,
+					"y": 87,
+					"objectName": "cc_sliderlist",
+					"width": 240,
+					"type": 64,
+					"height": 371
+				}
+			},
+			{
+				"payload": {
+					"text": [{
+						"text": ""
+					}],
+					"visible": false,
+					"enabled": true,
+					"x": 0,
+					"y": 87,
+					"objectName": "upbutton",
+					"width": 240,
+					"type": 63,
+					"height": 61
+				}
+			},
+			{
+				"payload": {
+					"text": [{
+						"text": ""
+					}],
+					"visible": false,
+					"enabled": true,
+					"x": 0,
+					"y": 397,
+					"objectName": "downbutton",
+					"width": 240,
+					"type": 63,
+					"height": 61
+				}
+			}],
+			"payload": {
+				"visible": true,
+				"enabled": true,
+				"x": 0,
+				"y": 64,
+				"objectName": "subMenu",
+				"width": 240,
+				"type": 85,
+				"height": 416
+			}
+		},
+		{
+			"payload": {
+				"visible": true,
+				"enabled": true,
+				"x": 0,
+				"y": 0,
+				"objectName": "",
+				"width": 0,
+				"type": 0,
+				"height": 0
+			}
+		}],
+		"part": "RadioAmDivView"
+	},
+	{
+		"child": [{
+			"payload": {
+				"visible": false,
+				"enabled": true,
+				"x": 252,
+				"y": 64,
+				"objectName": "txtAudioOff",
+				"width": 110,
+				"type": 81,
+				"height": 31
+			}
+		},
+		{
+			"child": [{
+				"child": [{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 756,
+						"y": 212,
+						"objectName": "",
+						"width": 48,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 236,
+						"y": 212,
+						"objectName": "",
+						"width": 48,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 240,
+						"y": 212,
+						"objectName": "",
+						"width": 0,
+						"type": 6,
+						"height": 10
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 240,
+						"y": 212,
+						"objectName": "",
+						"width": 0,
+						"type": 6,
+						"height": 0
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 240,
+					"y": 212,
+					"objectName": "",
+					"width": 560,
+					"type": 75,
+					"height": 48
+				}
+			},
+			{
+				"child": [{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 462,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 468,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 474,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 480,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 486,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 517,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 498,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 504,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 510,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 516,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 522,
+						"y": 385,
+						"objectName": "",
+						"width": 6,
+						"type": 7,
+						"height": 6
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 462,
+					"y": 385,
+					"objectName": "",
+					"width": 116,
+					"type": 0,
+					"height": 6
+				}
+			},
+			{
+				"child": [{
+					"child": [{
+						"payload": {
+							"text": [{
+								"text": "AM"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 285,
+							"y": 95,
+							"objectName": "NQBC_NQItemView_Item0",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "FM"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 445,
+							"y": 95,
+							"objectName": "NQBC_NQItemView_Item1",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "USB"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 605,
+							"y": 95,
+							"objectName": "NQBC_NQItemView_Item2",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Bluetooth"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 285,
+							"y": 241,
+							"objectName": "NQBC_NQItemView_Item3",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 285,
+						"y": 95,
+						"objectName": "NQFlickablecontentItem",
+						"width": 150,
+						"type": 0,
+						"height": 286
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 285,
+					"y": 95,
+					"objectName": "srcSelectList",
+					"width": 470,
+					"type": 67,
+					"height": 286
+				}
+			},
+			{
+				"child": [{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 756,
+						"y": 212,
+						"objectName": "",
+						"width": 48,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"text": [],
+						"visible": false,
+						"enabled": true,
+						"x": 236,
+						"y": 212,
+						"objectName": "",
+						"width": 48,
+						"type": 63,
+						"height": 48
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 240,
+						"y": 212,
+						"objectName": "",
+						"width": 0,
+						"type": 6,
+						"height": 10
+					}
+				},
+				{
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 240,
+						"y": 212,
+						"objectName": "",
+						"width": 0,
+						"type": 6,
+						"height": 0
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 240,
+					"y": 212,
+					"objectName": "",
+					"width": 560,
+					"type": 75,
+					"height": 48
+				}
+			},
+			{
+				"child": [{
+					"child": [{
+						"payload": {
+							"text": [{
+								"text": "AM"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 285,
+							"y": 95,
+							"objectName": "NQBC_NQItemView_Item0",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "FM"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 445,
+							"y": 95,
+							"objectName": "NQBC_NQItemView_Item1",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "USB"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 605,
+							"y": 95,
+							"objectName": "NQBC_NQItemView_Item2",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "USB 2"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 285,
+							"y": 241,
+							"objectName": "NQBC_NQItemView_Item3",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					},
+					{
+						"payload": {
+							"text": [{
+								"text": "Bluetooth"
+							}],
+							"visible": false,
+							"enabled": true,
+							"x": 445,
+							"y": 241,
+							"objectName": "NQBC_NQItemView_Item4",
+							"width": 150,
+							"type": 63,
+							"height": 140
+						}
+					}],
+					"payload": {
+						"visible": false,
+						"enabled": true,
+						"x": 285,
+						"y": 95,
+						"objectName": "NQFlickablecontentItem",
+						"width": 150,
+						"type": 0,
+						"height": 286
+					}
+				}],
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 285,
+					"y": 95,
+					"objectName": "reorderList",
+					"width": 470,
+					"type": 67,
+					"height": 286
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 240,
+					"y": 95,
+					"objectName": "insertImg",
+					"width": 20,
+					"type": 7,
+					"height": 138
+				}
+			}],
+			"payload": {
+				"visible": false,
+				"enabled": true,
+				"x": 240,
+				"y": 95,
+				"objectName": "",
+				"width": 560,
+				"type": 0,
+				"height": 286
+			}
+		},
+		{
+			"child": [{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 462,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 468,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 474,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 480,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 486,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 517,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 498,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 504,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 510,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 516,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			},
+			{
+				"payload": {
+					"visible": false,
+					"enabled": true,
+					"x": 522,
+					"y": 385,
+					"objectName": "",
+					"width": 6,
+					"type": 7,
+					"height": 6
+				}
+			}],
+			"payload": {
+				"visible": false,
+				"enabled": true,
+				"x": 462,
+				"y": 385,
+				"objectName": "",
+				"width": 116,
+				"type": 0,
+				"height": 6
+			}
+		},
+		{
+			"payload": {
+				"text": [{
+					"text": "Reorder"
+				}],
+				"visible": false,
+				"enabled": true,
+				"x": 407,
+				"y": 398,
+				"objectName": "btnReorder",
+				"width": 226,
+				"type": 63,
+				"height": 60
+			}
+		},
+		{
+			"payload": {
+				"text": [{
+					"text": "OK"
+				}],
+				"visible": false,
+				"enabled": true,
+				"x": 659,
+				"y": 398,
+				"objectName": "",
+				"width": 132,
+				"type": 63,
+				"height": 60
+			}
+		},
+		{
+			"payload": {
+				"text": [],
+				"visible": false,
+				"enabled": true,
+				"x": 385,
+				"y": 398,
+				"objectName": "btnLeft",
+				"width": 132,
+				"type": 63,
+				"height": 60
+			}
+		},
+		{
+			"payload": {
+				"text": [],
+				"visible": false,
+				"enabled": true,
+				"x": 521,
+				"y": 398,
+				"objectName": "btnRight",
+				"width": 132,
+				"type": 63,
+				"height": 60
+			}
+		}],
+		"part": "SourceSelect"
+	}]
+}

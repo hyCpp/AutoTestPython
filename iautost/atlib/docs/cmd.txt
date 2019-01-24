@@ -1,0 +1,16 @@
+autost命令行调度方式说明
+
+命令行语法: 
+	python -m autost casedir [--device=DEVICE] [--logdir=LOGDIR] [--rounds=ROUNDS]
+
+	参数说明：
+		casedir:	TestCase的路径，或者TestCase集合的路径
+		--device:	设备URL，默认为"iauto:///?ip=127.0.0.1&port=5391"
+		--logdir:	TestCase的运行日志目录，默认为casedir/log
+		--rounds:	TestCase的执行次数，默认为1（执行1次），-1表示无限循环执行
+
+命令行示例：
+1.python -m autost D:\workspace\MyAir\src\AT\workspace\T0\1_1.air --device="iauto:///?ip=192.168.5.111&port=5391"
+2.python -m autost C:\liuxinxing\workspace\AT\source\workspace\T0 --device="iauto:///?ip=192.168.5.111&port=5391" --round=2 --logdir=C:\liuxinxing\workspace\AT\source\workspace\T0_Report\20180719
+
+

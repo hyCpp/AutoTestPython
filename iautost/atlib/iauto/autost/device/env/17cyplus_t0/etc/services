@@ -1,0 +1,982 @@
+;T0DCU
+[services]
+nutshell.appmanager = local
+nutshell.appframework.packagemanager = local
+nutshell.common.system = local
+nutshell.policymanager = remote
+nutshell.windowmanager = local
+nutshell.iovmanager = local
+nutshell.vehicleinfo = local
+nutshell.providermanager = local
+nutshell.diag.sysdiag = local
+nutshell.common.setting = local
+nutshell.common.connect = local
+nutshell.common.networkmanager = local
+nutshell.common.storagescanner = local
+nutshell.commu.bluetooth = local
+nutshell.commu.wifi = local
+nutshell.pmcs.pmcs = local
+nutshell.systemui.fcservice = local
+nutshell.navi.map = remote
+nutshell.navi.route = remote
+nutshell.navi.guide = remote
+nutshell.navi.location = remote
+nutshell.navi.poisearch = remote
+nutshell.navi.traffic = remote
+nutshell.media.streamservice = local
+nutshell.navi.debug = local
+nutshell.ngserver.ngservice = local
+nutshell.commu.dcm = local
+nutshell.navi.registerpoint = remote
+nutshell.camera.camera = local
+nutshell.appframework.downloadmanager = remote
+nutshell.telema.gviewer = remote
+nutshell.telema.remoteservice = local
+nutshell.commu.telephony = local
+nutshell.ics.ics = local
+nutshell.ipa.ipa = local
+nutshell.collection.phonelink = remote
+nutshell.web.electronicom = remote
+nutshell.security.security = local
+nutshell.telema.gbook = remote
+nutshell.common.exthal = local
+nutshell.telema.helpnet = remote
+nutshell.telema.nacdf = local
+nutshell.picturechange.picturechange = local
+nutshell.localproxy = local
+nutshell.navi.voiceplay = remote
+nutshell.media.ipod = local
+nutshell.media.disc = local
+nutshell.media.tuner = local
+nutshell.media.gracenote = local
+nutshell.media.audioservice = local
+nutshell.media.mediaplayer = local
+nutshell.media.btaudio = local
+nutshell.media.sxm = remote
+nutshell.media.usbsd = local
+nutshell.media.dtv = remote
+nutshell.media.aux = local
+nutshell.media.dab = remote
+nutshell.media.miracast = remote
+nutshell.media.mirrorlink = remote
+nutshell.media.rse = local
+nutshell.media.mediamanager = local
+nutshell.media.iapservice = local
+nutshell.media.infoprovider = local
+nutshell.media.provider = local
+nutshell.media.hdcpservice = remote
+nutshell.media.tsl = local
+nutshell.media.beepservice = local
+nutshell.media.a2dpservice = local
+nutshell.media.otv = remote
+nutshell.media.mediamost = remote
+nutshell.media.mediades = remote
+nutshell.vehicle.meter = local
+nutshell.navi.navicommon = local
+nutshell.renewal.sysupdate = local
+nutshell.probe = local
+nutshell.voice.tts = local
+nutshell.voice.voicerecognizer = local
+nutshell.media.carplay = local
+
+[nutshell.appmanager]
+hostprocess = AppServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22000
+
+[nutshell.appframework.packagemanager]
+hostprocess = packagemanager
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22001
+
+[nutshell.common.system]
+hostprocess = SystemServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22002
+
+[nutshell.policymanager]
+hostprocess = SystemServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22003
+
+[nutshell.windowmanager]
+hostprocess = SystemServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22004
+
+[nutshell.iovmanager]
+hostprocess = IOVServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22005
+
+[nutshell.vehicleinfo]
+hostprocess = VehicleServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22006
+
+[nutshell.providermanager]
+hostprocess = SystemServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22007
+
+[nutshell.diag.sysdiag]
+hostprocess = DiagServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22008
+
+[nutshell.common.setting]
+hostprocess = SystemServer
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22009
+
+[nutshell.common.connect]
+hostprocess = SystemServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22010
+
+[nutshell.common.networkmanager]
+hostprocess = SystemServer
+when_to_start = hibernate
+key_service = true
+resident = true
+lazy = false
+port = 22011
+
+[nutshell.common.storagescanner]
+hostprocess = StorageScanner
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22012
+
+[nutshell.commu.bluetooth]
+hostprocess = CommuServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22013
+
+[nutshell.commu.wifi]
+hostprocess = CommuServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22014
+
+[nutshell.pmcs.pmcs]
+hostprocess = PmcsServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22015
+
+[nutshell.systemui.fcservice]
+hostprocess = NGServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22016
+
+[nutshell.navi.map]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22017
+
+[nutshell.navi.route]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22018
+
+[nutshell.navi.guide]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22019
+
+[nutshell.navi.location]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22020
+
+[nutshell.navi.poisearch]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22021
+
+[nutshell.navi.traffic]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22022
+
+[nutshell.media.streamservice]
+hostprocess = streamservice
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22023
+
+[nutshell.navi.debug]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = true
+port = 22024
+
+[nutshell.ngserver.ngservice]
+hostprocess = NGServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22025
+
+[nutshell.commu.dcm]
+hostprocess = CommuServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22026
+
+[nutshell.navi.registerpoint]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22027
+
+[nutshell.camera.camera]
+hostprocess = mediaserver
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22028
+
+[nutshell.appframework.downloadmanager]
+hostprocess = downloadmanager
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22029
+
+[nutshell.telema.gviewer]
+hostprocess = GViewer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22030
+
+[nutshell.telema.remoteservice]
+hostprocess = TelemaServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22031
+
+[nutshell.commu.telephony]
+hostprocess = CommuServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22032
+
+[nutshell.ics.ics]
+hostprocess = PmcsServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22033
+
+[nutshell.ipa.ipa]
+hostprocess = PmcsServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22034
+
+[nutshell.collection.phonelink]
+hostprocess = phonelinkmain-navi
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22035
+
+[nutshell.web.electronicom]
+hostprocess = WebService
+when_to_start = awake
+key_service = false
+resident = false
+lazy = true
+port = 22036
+
+[nutshell.security.security]
+hostprocess = NGServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22037
+
+[nutshell.telema.gbook]
+hostprocess = TelemaServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22038
+
+[nutshell.common.exthal]
+hostprocess = ExtHalServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22039
+
+[nutshell.telema.helpnet]
+hostprocess = TelemaServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22040
+
+[nutshell.telema.nacdf]
+hostprocess = TelemaServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22041
+
+[nutshell.picturechange.picturechange]
+hostprocess = NGServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22042
+
+[nutshell.localproxy]
+hostprocess = IOVServer
+when_to_start = awake
+key_service = false
+resident = false
+lazy = false
+port = 22043
+
+[nutshell.navi.voiceplay]
+hostprocess = navimain-navi
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22044
+
+[nutshell.media.ipod]
+hostprocess = mediaipod
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22045
+
+[nutshell.media.disc]
+hostprocess = mediadisc
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22046
+
+[nutshell.media.tuner]
+hostprocess = mediatuner
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22047
+
+[nutshell.media.gracenote]
+hostprocess = mediagracenote
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22048
+
+[nutshell.media.audioservice]
+hostprocess = mediaserver
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22049
+
+[nutshell.media.mediaplayer]
+hostprocess = mediaplayer
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22050
+
+[nutshell.media.btaudio]
+hostprocess = mediabtaudio
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22051
+
+[nutshell.media.sxm]
+hostprocess = mediasxm
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22052
+
+[nutshell.media.usbsd]
+hostprocess = mediausbsd
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22053
+
+[nutshell.media.dtv]
+hostprocess = mediadtv
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22054
+
+[nutshell.media.aux]
+hostprocess = mediaaux
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22055
+
+[nutshell.media.dab]
+hostprocess = mediadab
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22056
+
+[nutshell.media.miracast]
+hostprocess = mediamiracast
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22057
+
+[nutshell.media.mirrorlink]
+hostprocess = mediamirrorlink
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22058
+
+[nutshell.media.rse]
+hostprocess = mediarse
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22059
+
+[nutshell.media.mediamanager]
+hostprocess = mediamanager
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22060
+
+[nutshell.media.iapservice]
+hostprocess = iapserver
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22061
+
+[nutshell.media.infoprovider]
+hostprocess = StorageScanner
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22062
+
+[nutshell.media.provider]
+hostprocess = StorageScanner
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22063
+
+[nutshell.media.hdcpservice]
+hostprocess = mediaplayer
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22064
+
+[nutshell.media.tsl]
+hostprocess = mediatsl
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22065
+
+[nutshell.media.beepservice]
+hostprocess = mediaserver
+when_to_start = hibernate
+key_service = true
+resident = false
+lazy = false
+port = 22066
+
+[nutshell.media.a2dpservice]
+hostprocess = mediaserver
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22067
+
+[nutshell.media.otv]
+hostprocess = mediaotv
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22068
+
+[nutshell.media.mediamost]
+hostprocess = mediamost
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = false
+port = 22069
+
+[nutshell.media.mediades]
+hostprocess = mediades
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22070
+
+[nutshell.vehicle.meter]
+hostprocess = MeterServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22071
+
+[nutshell.navi.navicommon]
+hostprocess = navimain-navi
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22072
+
+[nutshell.renewal.sysupdate]
+hostprocess = SystemUpdate
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22073
+
+[nutshell.probe]
+hostprocess = ProbeServer
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22074
+
+[nutshell.voice.tts]
+hostprocess = ttsmain-navi
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22075
+
+[nutshell.voice.voicerecognizer]
+hostprocess = voicerecogmain-navi
+when_to_start = hibernate
+key_service = false
+resident = false
+lazy = true
+port = 22076
+
+[nutshell.media.carplay]
+hostprocess = mediacarplay
+when_to_start = custom
+key_service = false
+resident = false
+lazy = false
+port = 22077
+
+[processes]
+AppServer = lazyload
+packagemanager = lazyload
+SystemServer = lazyload
+IOVServer = lazyload
+VehicleServer = lazyload
+DiagServer = lazyload
+StorageScanner = lazyload
+CommuServer = lazyload
+PmcsServer = lazyload
+NGServer = lazyload
+navimain-navi = lazyload
+mediaserver = lazyload
+downloadmanager = lazyload
+GViewer = lazyload
+TelemaServer = lazyload
+phonelinkmain-navi = lazyload
+WebService = lazyload
+ExtHalServer = lazyload
+mediaipod = lazyload
+mediadisc = lazyload
+mediatuner = lazyload
+mediagracenote = lazyload
+mediaplayer = lazyload
+mediabtaudio = lazyload
+mediasxm = lazyload
+mediausbsd = lazyload
+mediadtv = lazyload
+mediaaux = lazyload
+mediadab = lazyload
+mediamiracast = lazyload
+mediamirrorlink = lazyload
+mediarse = lazyload
+mediamanager = lazyload
+iapserver = lazyload
+mediatsl = lazyload
+mediaotv = lazyload
+mediamost = lazyload
+mediades = lazyload
+MeterServer = lazyload
+SystemUpdate = lazyload
+ProbeServer = lazyload
+ttsmain-navi = lazyload
+voicerecogmain-navi = lazyload
+mediacarplay = lazyload
+SerivceManager = lazyload
+
+[AppServer]
+warning = 3
+death = 6
+monitor = true
+
+[packagemanager]
+warning = 3
+death = 6
+monitor = true
+
+[SystemServer]
+warning = 12
+death = 0
+monitor = true
+
+[IOVServer]
+warning = 4
+death = 0
+monitor = true
+
+[VehicleServer]
+warning = 8
+death = 0
+monitor = true
+
+[DiagServer]
+warning = 10
+death = 0
+monitor = true
+
+[StorageScanner]
+warning = 7
+death = 0
+monitor = true
+
+[CommuServer]
+warning = 20
+death = 0
+monitor = true
+
+[PmcsServer]
+warning = 6
+death = 0
+monitor = true
+
+[NGServer]
+warning = 15
+death = 0
+monitor = true
+
+[navimain-navi]
+warning = 8
+death = 16
+monitor = true
+
+[mediaserver]
+warning = 52
+death = 104
+monitor = true
+
+[downloadmanager]
+warning = 0
+death = 0
+monitor = false
+
+[GViewer]
+warning = 0
+death = 0
+monitor = false
+
+[TelemaServer]
+warning = 11
+death = 0
+monitor = true
+
+[phonelinkmain-navi]
+warning = 7
+death = 14
+monitor = true
+
+[WebService]
+warning = 0
+death = 0
+monitor = true
+
+[ExtHalServer]
+warning = 2
+death = 0
+monitor = true
+
+[mediaipod]
+warning = 12
+death = 24
+monitor = true
+
+[mediadisc]
+warning = 5
+death = 10
+monitor = true
+
+[mediatuner]
+warning = 8
+death = 16
+monitor = true
+
+[mediagracenote]
+warning = 6
+death = 12
+monitor = true
+
+[mediaplayer]
+warning = 0
+death = 0
+monitor = false
+
+[mediabtaudio]
+warning = 5
+death = 10
+monitor = true
+
+[mediasxm]
+warning = 12
+death = 24
+monitor = true
+
+[mediausbsd]
+warning = 20
+death = 40
+monitor = true
+
+[mediadtv]
+warning = 2
+death = 4
+monitor = true
+
+[mediaaux]
+warning = 2
+death = 4
+monitor = true
+
+[mediadab]
+warning = 2
+death = 4
+monitor = true
+
+[mediamiracast]
+warning = 10
+death = 20
+monitor = true
+
+[mediamirrorlink]
+warning = 12
+death = 24
+monitor = true
+
+[mediarse]
+warning = 3
+death = 6
+monitor = true
+
+[mediamanager]
+warning = 6
+death = 0
+monitor = true
+
+[iapserver]
+warning = 25
+death = 0
+monitor = true
+
+[mediatsl]
+warning = 70
+death = 140
+monitor = true
+
+[mediaotv]
+warning = 1
+death = 2
+monitor = true
+
+[mediamost]
+warning = 0
+death = 0
+monitor = false
+
+[mediades]
+warning = 1
+death = 2
+monitor = true
+
+[MeterServer]
+warning = 5
+death = 0
+monitor = true
+
+[SystemUpdate]
+warning = 40
+death = 0
+monitor = true
+
+[ProbeServer]
+warning = 6
+death = 0
+monitor = true
+
+[ttsmain-navi]
+warning = 43
+death = 86
+monitor = true
+
+[voicerecogmain-navi]
+warning = 91
+death = 182
+monitor = true
+
+[mediacarplay]
+warning = 0
+death = 0
+monitor = true
+
+[SerivceManager]
+warning = 0
+death = 0
+monitor = false
+
+[system]
+free = 100
+timer = 60
+checkmob = true
+

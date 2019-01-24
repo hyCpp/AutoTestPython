@@ -1,0 +1,9 @@
+#
+{
+'DEVICE_URI_LIST' : [
+                    #'iauto://127.0.0.1:5391/?stream_method=snapshot',        # simulator
+                    #'iauto://192.168.5.111:5391',                            # 17cy/17cyplus
+                    #'iAndroid://127.0.0.1:5037',                             # android
+                    #'iAndroid://127.0.0.1:5037/?stream_method=SCRCPY',       # AndroidPoc
+                    ],
+}

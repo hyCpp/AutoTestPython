@@ -1,0 +1,22 @@
+mount -o remount rw /system
+cp /udisk1/t1t2plus_mul_env/libQmlFramework.so /usr/lib/
+
+
+
+busybox udhcpc -i eth0
+
+
+ps |grep stream |awk '{print $2}' |xargs kill -9
+/usr/bin/streamservice &
+iptables -F
+iptables -P INPUT ACCEPT
+iptables -P OUTPUT ACCEPT
+Teststreamservice -c --channelname test --port 8554 -b &
+/data/iauto2test &
+
+quit
+VLCPlayer->Media->open Network Stream...
+rtsp://192.168.5.100:8554/test
+
+
+bsp set -d 1

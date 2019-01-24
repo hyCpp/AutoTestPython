@@ -1,0 +1,2324 @@
+{
+	"child": [{
+		"child": [],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerBackground",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerSystemVK",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [{
+			"child": [{
+				"child": [{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "775",
+						"widthScale": 0,
+						"widthOffset": 960,
+						"heightScale": 0,
+						"heightOffset": 540,
+						"xScale": 0,
+						"xOffset": 0,
+						"yScale": 0,
+						"yOffset": 0,
+						"text": "",
+						"enable": false
+					}
+				}],
+				"payload": {
+					"className": "View/FullView",
+					"objectName": "774",
+					"widthScale": 0,
+					"widthOffset": 960,
+					"heightScale": 0,
+					"heightOffset": 540,
+					"xScale": 0,
+					"xOffset": 0,
+					"yScale": 0,
+					"yOffset": 0,
+					"text": "",
+					"enable": false
+				}
+			}],
+			"payload": {
+				"className": "Generic/Image",
+				"objectName": "SubLayer_FullView",
+				"widthScale": 0,
+				"widthOffset": 960,
+				"heightScale": 1,
+				"heightOffset": 0,
+				"xScale": 0,
+				"xOffset": 0,
+				"yScale": 0,
+				"yOffset": 0,
+				"text": "",
+				"enable": false
+			}
+		},
+		{
+			"child": [],
+			"payload": {
+				"className": "Generic/Image",
+				"objectName": "SubLayer_SubView",
+				"widthScale": 1,
+				"widthOffset": 0,
+				"heightScale": 1,
+				"heightOffset": 0,
+				"xScale": 0,
+				"xOffset": 0,
+				"yScale": 0,
+				"yOffset": 0,
+				"text": "",
+				"enable": false
+			}
+		},
+		{
+			"child": [{
+				"child": [{
+					"child": [{
+						"child": [{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "803",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "804",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "805",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 310,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "806",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 326,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "807",
+									"widthScale": 0,
+									"widthOffset": 278,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 32,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Artists",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "802",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "809",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "810",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "811",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 310,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "812",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 326,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "813",
+									"widthScale": 0,
+									"widthOffset": 278,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 32,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Albums",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "808",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 74,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "815",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "816",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "817",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 310,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "818",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 326,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "819",
+									"widthScale": 0,
+									"widthOffset": 278,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 32,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Songs",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "814",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 148,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "821",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "822",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "823",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 310,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "824",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 326,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "825",
+									"widthScale": 0,
+									"widthOffset": 278,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 32,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Playlists",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "820",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 222,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "827",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "828",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "829",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 310,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "830",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 326,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "831",
+									"widthScale": 0,
+									"widthOffset": 278,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 32,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Genres",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "826",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 296,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "833",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "834",
+									"widthScale": 0,
+									"widthOffset": 366,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "835",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 310,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "836",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 326,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "837",
+									"widthScale": 0,
+									"widthOffset": 278,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 32,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Podcasts",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "832",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 370,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXClippedContainer",
+							"objectName": "BasicControl/NXClippedContainer",
+							"widthScale": 0,
+							"widthOffset": 366,
+							"heightScale": 0,
+							"heightOffset": 458,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXFrame",
+							"objectName": "BasicControl/NXFrame",
+							"widthScale": 0,
+							"widthOffset": 366,
+							"heightScale": 0,
+							"heightOffset": 458,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "BasicControl/NXImageLabel",
+							"widthScale": 0,
+							"widthOffset": 0,
+							"heightScale": 0,
+							"heightOffset": 0,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXStaticList",
+						"objectName": "801",
+						"widthScale": 0,
+						"widthOffset": 365.999939,
+						"heightScale": 0,
+						"heightOffset": 458,
+						"xScale": 0,
+						"xOffset": 0,
+						"yScale": 0,
+						"yOffset": 82,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [{
+						"child": [{
+							"child": [{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "840",
+									"widthScale": 0,
+									"widthOffset": 334,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "841",
+									"widthScale": 0,
+									"widthOffset": 334,
+									"heightScale": 0,
+									"heightOffset": 74,
+									"xScale": 0,
+									"xOffset": 0,
+									"yScale": 0,
+									"yOffset": 0,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "842",
+									"widthScale": 0,
+									"widthOffset": 32,
+									"heightScale": 0,
+									"heightOffset": 32,
+									"xScale": 0,
+									"xOffset": 278,
+									"yScale": 0,
+									"yOffset": 21,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXImageLabel",
+									"objectName": "843",
+									"widthScale": 0,
+									"widthOffset": 24,
+									"heightScale": 0,
+									"heightOffset": 24,
+									"xScale": 0,
+									"xOffset": 294,
+									"yScale": 0,
+									"yOffset": 25,
+									"text": "",
+									"enable": false
+								}
+							},
+							{
+								"child": [],
+								"payload": {
+									"className": "BasicControl/NXTextLabel",
+									"objectName": "844",
+									"widthScale": 0,
+									"widthOffset": 254,
+									"heightScale": 0,
+									"heightOffset": 40,
+									"xScale": 0,
+									"xOffset": 29,
+									"yScale": 0,
+									"yOffset": 13,
+									"text": "Composers",
+									"enable": false
+								}
+							}],
+							"payload": {
+								"className": "BasicControl/NXListViewCustomItem",
+								"objectName": "839",
+								"widthScale": 1,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXClippedContainer",
+							"objectName": "BasicControl/NXClippedContainer",
+							"widthScale": 0,
+							"widthOffset": 334,
+							"heightScale": 0,
+							"heightOffset": 14,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXFrame",
+							"objectName": "BasicControl/NXFrame",
+							"widthScale": 0,
+							"widthOffset": 334,
+							"heightScale": 0,
+							"heightOffset": 14,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "BasicControl/NXImageLabel",
+							"widthScale": 0,
+							"widthOffset": 0,
+							"heightScale": 0,
+							"heightOffset": 0,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXStaticList",
+						"objectName": "838",
+						"widthScale": 0,
+						"widthOffset": 333.999878,
+						"heightScale": 0,
+						"heightOffset": 14,
+						"xScale": 0,
+						"xOffset": 16,
+						"yScale": 0,
+						"yOffset": 526,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "847",
+								"widthScale": 0,
+								"widthOffset": 191,
+								"heightScale": 0,
+								"heightOffset": 74,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXTextLabel",
+								"objectName": "848",
+								"widthScale": 0,
+								"widthOffset": 111,
+								"heightScale": 0,
+								"heightOffset": 34,
+								"xScale": 0,
+								"xOffset": 80,
+								"yScale": 0,
+								"yOffset": 17,
+								"text": "Blueto...",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "849",
+								"widthScale": 0,
+								"widthOffset": 32,
+								"heightScale": 0,
+								"heightOffset": 32,
+								"xScale": 0,
+								"xOffset": 32,
+								"yScale": 0,
+								"yOffset": 21,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAnimationButton",
+							"objectName": "846",
+							"widthScale": 0,
+							"widthOffset": 191,
+							"heightScale": 0,
+							"heightOffset": 74,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": true
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXTitleBar",
+						"objectName": "845",
+						"widthScale": 0,
+						"widthOffset": 191,
+						"heightScale": 0,
+						"heightOffset": 74,
+						"xScale": 0,
+						"xOffset": 0,
+						"yScale": 0,
+						"yOffset": 0,
+						"text": "",
+						"enable": false
+					}
+				}],
+				"payload": {
+					"className": "View/MainView",
+					"objectName": "800",
+					"widthScale": 0,
+					"widthOffset": 366,
+					"heightScale": 0,
+					"heightOffset": 600,
+					"xScale": 0,
+					"xOffset": 0,
+					"yScale": 0,
+					"yOffset": 0,
+					"text": "",
+					"enable": false
+				}
+			}],
+			"payload": {
+				"className": "Generic/Image",
+				"objectName": "SubLayer_MainView",
+				"widthScale": 0,
+				"widthOffset": 366,
+				"heightScale": 1,
+				"heightOffset": 0,
+				"xScale": 0,
+				"xOffset": 88,
+				"yScale": 0,
+				"yOffset": 0,
+				"text": "",
+				"enable": false
+			}
+		},
+		{
+			"child": [{
+				"child": [{
+					"child": [{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1525",
+							"widthScale": 0,
+							"widthOffset": 506,
+							"heightScale": 0,
+							"heightOffset": 540,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXTextLabel",
+							"objectName": "1526",
+							"widthScale": 0,
+							"widthOffset": 143,
+							"heightScale": 0,
+							"heightOffset": 45,
+							"xScale": 0,
+							"xOffset": 181,
+							"yScale": 0,
+							"yOffset": 282,
+							"text": "Spotlight",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXTextLabel",
+							"objectName": "1527",
+							"widthScale": 0,
+							"widthOffset": 94,
+							"heightScale": 0,
+							"heightOffset": 28,
+							"xScale": 0,
+							"xOffset": 205,
+							"yScale": 0,
+							"yOffset": 329,
+							"text": "Madonna",
+							"enable": false
+						}
+					},
+					{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1529",
+								"widthScale": 0,
+								"widthOffset": 290,
+								"heightScale": 0,
+								"heightOffset": 4,
+								"xScale": 0,
+								"xOffset": 52,
+								"yScale": 0,
+								"yOffset": 14,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1530",
+								"widthScale": 0,
+								"widthOffset": 0,
+								"heightScale": 0,
+								"heightOffset": 4,
+								"xScale": 0,
+								"xOffset": 52,
+								"yScale": 0,
+								"yOffset": 14,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXTextLabel",
+								"objectName": "1531",
+								"widthScale": 0,
+								"widthOffset": 52,
+								"heightScale": 0,
+								"heightOffset": 28,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "00:00",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXTextLabel",
+								"objectName": "1532",
+								"widthScale": 0,
+								"widthOffset": 52,
+								"heightScale": 0,
+								"heightOffset": 28,
+								"xScale": 0,
+								"xOffset": 342,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "04:30",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAVTimeBar",
+							"objectName": "1528",
+							"widthScale": 0,
+							"widthOffset": 394,
+							"heightScale": 0,
+							"heightOffset": 28,
+							"xScale": 0,
+							"xOffset": 56,
+							"yScale": 0,
+							"yOffset": 388,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1533",
+							"widthScale": 0,
+							"widthOffset": 160,
+							"heightScale": 0,
+							"heightOffset": 160,
+							"xScale": 0,
+							"xOffset": 173,
+							"yScale": 0,
+							"yOffset": 114,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1535",
+								"widthScale": 0,
+								"widthOffset": 56,
+								"heightScale": 0,
+								"heightOffset": 56,
+								"xScale": 0,
+								"xOffset": 1,
+								"yScale": 0,
+								"yOffset": 1,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1536",
+								"widthScale": 0,
+								"widthOffset": 50,
+								"heightScale": 0,
+								"heightOffset": 57,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1537",
+								"widthScale": 0,
+								"widthOffset": 40,
+								"heightScale": 0,
+								"heightOffset": 40,
+								"xScale": 0,
+								"xOffset": 9,
+								"yScale": 0,
+								"yOffset": 9,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1538",
+								"widthScale": 0,
+								"widthOffset": 28,
+								"heightScale": 0,
+								"heightOffset": 22,
+								"xScale": 0,
+								"xOffset": 29,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAnimationButton",
+							"objectName": "1534",
+							"widthScale": 0,
+							"widthOffset": 57,
+							"heightScale": 0,
+							"heightOffset": 58,
+							"xScale": 0,
+							"xOffset": 49,
+							"yScale": 0,
+							"yOffset": 458,
+							"text": "",
+							"enable": true
+						}
+					},
+					{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1540",
+								"widthScale": 0,
+								"widthOffset": 56,
+								"heightScale": 0,
+								"heightOffset": 56,
+								"xScale": 0,
+								"xOffset": 1,
+								"yScale": 0,
+								"yOffset": 1,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1541",
+								"widthScale": 0,
+								"widthOffset": 50,
+								"heightScale": 0,
+								"heightOffset": 57,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1542",
+								"widthScale": 0,
+								"widthOffset": 40,
+								"heightScale": 0,
+								"heightOffset": 40,
+								"xScale": 0,
+								"xOffset": 9,
+								"yScale": 0,
+								"yOffset": 9,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1543",
+								"widthScale": 0,
+								"widthOffset": 28,
+								"heightScale": 0,
+								"heightOffset": 22,
+								"xScale": 0,
+								"xOffset": 29,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAnimationButton",
+							"objectName": "1539",
+							"widthScale": 0,
+							"widthOffset": 57,
+							"heightScale": 0,
+							"heightOffset": 58,
+							"xScale": 0,
+							"xOffset": 133,
+							"yScale": 0,
+							"yOffset": 458,
+							"text": "",
+							"enable": true
+						}
+					},
+					{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1545",
+								"widthScale": 0,
+								"widthOffset": 56,
+								"heightScale": 0,
+								"heightOffset": 56,
+								"xScale": 0,
+								"xOffset": 1,
+								"yScale": 0,
+								"yOffset": 1,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1546",
+								"widthScale": 0,
+								"widthOffset": 50,
+								"heightScale": 0,
+								"heightOffset": 57,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1547",
+								"widthScale": 0,
+								"widthOffset": 40,
+								"heightScale": 0,
+								"heightOffset": 40,
+								"xScale": 0,
+								"xOffset": 9,
+								"yScale": 0,
+								"yOffset": 9,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1548",
+								"widthScale": 0,
+								"widthOffset": 28,
+								"heightScale": 0,
+								"heightOffset": 22,
+								"xScale": 0,
+								"xOffset": 29,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAnimationButton",
+							"objectName": "1544",
+							"widthScale": 0,
+							"widthOffset": 57,
+							"heightScale": 0,
+							"heightOffset": 58,
+							"xScale": 0,
+							"xOffset": 315,
+							"yScale": 0,
+							"yOffset": 458,
+							"text": "",
+							"enable": true
+						}
+					},
+					{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1550",
+								"widthScale": 0,
+								"widthOffset": 56,
+								"heightScale": 0,
+								"heightOffset": 56,
+								"xScale": 0,
+								"xOffset": 1,
+								"yScale": 0,
+								"yOffset": 1,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1551",
+								"widthScale": 0,
+								"widthOffset": 50,
+								"heightScale": 0,
+								"heightOffset": 57,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1552",
+								"widthScale": 0,
+								"widthOffset": 40,
+								"heightScale": 0,
+								"heightOffset": 40,
+								"xScale": 0,
+								"xOffset": 9,
+								"yScale": 0,
+								"yOffset": 9,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1553",
+								"widthScale": 0,
+								"widthOffset": 28,
+								"heightScale": 0,
+								"heightOffset": 22,
+								"xScale": 0,
+								"xOffset": 29,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAnimationButton",
+							"objectName": "1549",
+							"widthScale": 0,
+							"widthOffset": 57,
+							"heightScale": 0,
+							"heightOffset": 58,
+							"xScale": 0,
+							"xOffset": 399,
+							"yScale": 0,
+							"yOffset": 458,
+							"text": "",
+							"enable": true
+						}
+					},
+					{
+						"child": [{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1555",
+								"widthScale": 0,
+								"widthOffset": 72,
+								"heightScale": 0,
+								"heightOffset": 72,
+								"xScale": 0,
+								"xOffset": 0,
+								"yScale": 0,
+								"yOffset": 0,
+								"text": "",
+								"enable": false
+							}
+						},
+						{
+							"child": [],
+							"payload": {
+								"className": "BasicControl/NXImageLabel",
+								"objectName": "1556",
+								"widthScale": 0,
+								"widthOffset": 42,
+								"heightScale": 0,
+								"heightOffset": 42,
+								"xScale": 0,
+								"xOffset": 15,
+								"yScale": 0,
+								"yOffset": 15,
+								"text": "",
+								"enable": false
+							}
+						}],
+						"payload": {
+							"className": "BasicControl/NXAnimationButton",
+							"objectName": "1554",
+							"widthScale": 0,
+							"widthOffset": 72,
+							"heightScale": 0,
+							"heightOffset": 72,
+							"xScale": 0,
+							"xOffset": 217,
+							"yScale": 0,
+							"yOffset": 451,
+							"text": "",
+							"enable": true
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1524",
+							"widthScale": 0,
+							"widthOffset": 160,
+							"heightScale": 0,
+							"heightOffset": 160,
+							"xScale": 0,
+							"xOffset": 173,
+							"yScale": 0,
+							"yOffset": 114,
+							"text": "",
+							"enable": false
+						}
+					},
+					{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXFrame",
+							"objectName": "BasicControl/NXFrame",
+							"widthScale": 1,
+							"widthOffset": 0,
+							"heightScale": 1,
+							"heightOffset": 0,
+							"xScale": 0,
+							"xOffset": 0,
+							"yScale": 0,
+							"yOffset": 0,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXPlayStatus",
+						"objectName": "1523",
+						"widthScale": 0,
+						"widthOffset": 506,
+						"heightScale": 0,
+						"heightOffset": 540,
+						"xScale": 0,
+						"xOffset": 0,
+						"yScale": 0,
+						"yOffset": 0,
+						"text": "",
+						"enable": false
+					}
+				}],
+				"payload": {
+					"className": "View/PopView",
+					"objectName": "1522",
+					"widthScale": 0,
+					"widthOffset": 506,
+					"heightScale": 0,
+					"heightOffset": 540,
+					"xScale": 0,
+					"xOffset": 454,
+					"yScale": 0,
+					"yOffset": 0,
+					"text": "",
+					"enable": false
+				}
+			}],
+			"payload": {
+				"className": "Generic/Image",
+				"objectName": "SubLayer_PopView",
+				"widthScale": 1,
+				"widthOffset": 0,
+				"heightScale": 1,
+				"heightOffset": 0,
+				"xScale": 0,
+				"xOffset": 0,
+				"yScale": 0,
+				"yOffset": 0,
+				"text": "",
+				"enable": false
+			}
+		},
+		{
+			"child": [],
+			"payload": {
+				"className": "Generic/Image",
+				"objectName": "SubLayer_AlertView",
+				"widthScale": 1,
+				"widthOffset": 0,
+				"heightScale": 1,
+				"heightOffset": 0,
+				"xScale": 0,
+				"xOffset": 0,
+				"yScale": 0,
+				"yOffset": 0,
+				"text": "",
+				"enable": false
+			}
+		}],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerNormal",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [{
+			"child": [{
+				"child": [{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1706",
+						"widthScale": 0,
+						"widthOffset": 235,
+						"heightScale": 0,
+						"heightOffset": 74,
+						"xScale": 0,
+						"xOffset": 0,
+						"yScale": 0,
+						"yOffset": 0,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXTextLabel",
+						"objectName": "1707",
+						"widthScale": 0,
+						"widthOffset": 82,
+						"heightScale": 0,
+						"heightOffset": 50,
+						"xScale": 0,
+						"xOffset": 133,
+						"yScale": 0,
+						"yOffset": 12,
+						"text": "16:58",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1708",
+						"widthScale": 0,
+						"widthOffset": 24,
+						"heightScale": 0,
+						"heightOffset": 24,
+						"xScale": 0,
+						"xOffset": 100,
+						"yScale": 0,
+						"yOffset": 26,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1709",
+						"widthScale": 0,
+						"widthOffset": 24,
+						"heightScale": 0,
+						"heightOffset": 24,
+						"xScale": 0,
+						"xOffset": 60,
+						"yScale": 0,
+						"yOffset": 26,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1710",
+						"widthScale": 0,
+						"widthOffset": 24,
+						"heightScale": 0,
+						"heightOffset": 24,
+						"xScale": 0,
+						"xOffset": 20,
+						"yScale": 0,
+						"yOffset": 26,
+						"text": "",
+						"enable": false
+					}
+				}],
+				"payload": {
+					"className": "BasicControl/NXStatusBar",
+					"objectName": "1705",
+					"widthScale": 0,
+					"widthOffset": 235,
+					"heightScale": 0,
+					"heightOffset": 74,
+					"xScale": 0,
+					"xOffset": 731,
+					"yScale": 0,
+					"yOffset": 0,
+					"text": "",
+					"enable": false
+				}
+			},
+			{
+				"child": [{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1712",
+						"widthScale": 0,
+						"widthOffset": 94,
+						"heightScale": 0,
+						"heightOffset": 540,
+						"xScale": 0,
+						"xOffset": 6,
+						"yScale": 0,
+						"yOffset": 0,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1713",
+						"widthScale": 0,
+						"widthOffset": 224,
+						"heightScale": 0,
+						"heightOffset": 676,
+						"xScale": 0,
+						"xOffset": -62,
+						"yScale": 0,
+						"yOffset": -68,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1714",
+						"widthScale": 0,
+						"widthOffset": 1,
+						"heightScale": 0,
+						"heightOffset": 540,
+						"xScale": 0,
+						"xOffset": 93,
+						"yScale": 0,
+						"yOffset": 0,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1715",
+						"widthScale": 0,
+						"widthOffset": 24,
+						"heightScale": 0,
+						"heightOffset": 24,
+						"xScale": 0,
+						"xOffset": 58,
+						"yScale": 0,
+						"yOffset": 454,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1717",
+							"widthScale": 0,
+							"widthOffset": 40,
+							"heightScale": 0,
+							"heightOffset": 40,
+							"xScale": 0,
+							"xOffset": 25,
+							"yScale": 0,
+							"yOffset": 25,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXAnimationButton",
+						"objectName": "1716",
+						"widthScale": 0,
+						"widthOffset": 90,
+						"heightScale": 0,
+						"heightOffset": 90,
+						"xScale": 0,
+						"xOffset": 5,
+						"yScale": 0,
+						"yOffset": 441,
+						"text": "",
+						"enable": true
+					}
+				},
+				{
+					"child": [{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1719",
+							"widthScale": 0,
+							"widthOffset": 35,
+							"heightScale": 0,
+							"heightOffset": 35,
+							"xScale": 0,
+							"xOffset": 28,
+							"yScale": 0,
+							"yOffset": 28,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXAnimationButton",
+						"objectName": "1718",
+						"widthScale": 0,
+						"widthOffset": 90,
+						"heightScale": 0,
+						"heightOffset": 90,
+						"xScale": 0,
+						"xOffset": 5,
+						"yScale": 0,
+						"yOffset": 335,
+						"text": "",
+						"enable": true
+					}
+				},
+				{
+					"child": [{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1721",
+							"widthScale": 0,
+							"widthOffset": 40,
+							"heightScale": 0,
+							"heightOffset": 40,
+							"xScale": 0,
+							"xOffset": 25,
+							"yScale": 0,
+							"yOffset": 25,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXAnimationButton",
+						"objectName": "1720",
+						"widthScale": 0,
+						"widthOffset": 90,
+						"heightScale": 0,
+						"heightOffset": 90,
+						"xScale": 0,
+						"xOffset": 5,
+						"yScale": 0,
+						"yOffset": 225,
+						"text": "",
+						"enable": true
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1722",
+						"widthScale": 0,
+						"widthOffset": 24,
+						"heightScale": 0,
+						"heightOffset": 24,
+						"xScale": 0,
+						"xOffset": 52,
+						"yScale": 0,
+						"yOffset": 242,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1723",
+						"widthScale": 0,
+						"widthOffset": 12,
+						"heightScale": 0,
+						"heightOffset": 12,
+						"xScale": 0,
+						"xOffset": 0,
+						"yScale": 0,
+						"yOffset": 156,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1725",
+							"widthScale": 0,
+							"widthOffset": 40,
+							"heightScale": 0,
+							"heightOffset": 40,
+							"xScale": 0,
+							"xOffset": 25,
+							"yScale": 0,
+							"yOffset": 25,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXAnimationButton",
+						"objectName": "1724",
+						"widthScale": 0,
+						"widthOffset": 90,
+						"heightScale": 0,
+						"heightOffset": 90,
+						"xScale": 0,
+						"xOffset": 5,
+						"yScale": 0,
+						"yOffset": 117,
+						"text": "",
+						"enable": true
+					}
+				},
+				{
+					"child": [{
+						"child": [],
+						"payload": {
+							"className": "BasicControl/NXImageLabel",
+							"objectName": "1727",
+							"widthScale": 0,
+							"widthOffset": 49.899998,
+							"heightScale": 0,
+							"heightOffset": 49.899998,
+							"xScale": 0,
+							"xOffset": 20.049999,
+							"yScale": 0,
+							"yOffset": 20.049999,
+							"text": "",
+							"enable": false
+						}
+					}],
+					"payload": {
+						"className": "BasicControl/NXAnimationButton",
+						"objectName": "1726",
+						"widthScale": 0,
+						"widthOffset": 90,
+						"heightScale": 0,
+						"heightOffset": 90,
+						"xScale": 0,
+						"xOffset": 5,
+						"yScale": 0,
+						"yOffset": 13,
+						"text": "",
+						"enable": true
+					}
+				}],
+				"payload": {
+					"className": "BasicControl/NXGlobalMenu",
+					"objectName": "1711",
+					"widthScale": 0,
+					"widthOffset": 100,
+					"heightScale": 0,
+					"heightOffset": 540,
+					"xScale": 0,
+					"xOffset": 0,
+					"yScale": 0,
+					"yOffset": 0,
+					"text": "",
+					"enable": false
+				}
+			},
+			{
+				"child": [{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1729",
+						"widthScale": 0,
+						"widthOffset": 334,
+						"heightScale": 0,
+						"heightOffset": 188,
+						"xScale": 0,
+						"xOffset": -57,
+						"yScale": 0,
+						"yOffset": -57,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1730",
+						"widthScale": 0,
+						"widthOffset": 24,
+						"heightScale": 0,
+						"heightOffset": 24,
+						"xScale": 0,
+						"xOffset": 172,
+						"yScale": 0,
+						"yOffset": 25,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXTextLabel",
+						"objectName": "1731",
+						"widthScale": 0,
+						"widthOffset": 140,
+						"heightScale": 0,
+						"heightOffset": 34,
+						"xScale": 0,
+						"xOffset": 32,
+						"yScale": 0,
+						"yOffset": 18,
+						"text": "Bluetooth",
+						"enable": false
+					}
+				}],
+				"payload": {
+					"className": "BasicControl/NXAnimationButton",
+					"objectName": "1728",
+					"widthScale": 0,
+					"widthOffset": 220,
+					"heightScale": 0,
+					"heightOffset": 74,
+					"xScale": 0,
+					"xOffset": 216,
+					"yScale": 0,
+					"yOffset": 442,
+					"text": "",
+					"enable": true
+				}
+			},
+			{
+				"child": [{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1733",
+						"widthScale": 0,
+						"widthOffset": 234,
+						"heightScale": 0,
+						"heightOffset": 234,
+						"xScale": 0,
+						"xOffset": -80,
+						"yScale": 0,
+						"yOffset": -80,
+						"text": "",
+						"enable": false
+					}
+				},
+				{
+					"child": [],
+					"payload": {
+						"className": "BasicControl/NXImageLabel",
+						"objectName": "1734",
+						"widthScale": 0,
+						"widthOffset": 42,
+						"heightScale": 0,
+						"heightOffset": 42,
+						"xScale": 0,
+						"xOffset": 16,
+						"yScale": 0,
+						"yOffset": 16,
+						"text": "",
+						"enable": false
+					}
+				}],
+				"payload": {
+					"className": "BasicControl/NXAnimationButton",
+					"objectName": "1732",
+					"widthScale": 0,
+					"widthOffset": 74,
+					"heightScale": 0,
+					"heightOffset": 74,
+					"xScale": 0,
+					"xOffset": 118,
+					"yScale": 0,
+					"yOffset": 442,
+					"text": "",
+					"enable": true
+				}
+			}],
+			"payload": {
+				"className": "View/GlobalView",
+				"objectName": "1704",
+				"widthScale": 0,
+				"widthOffset": 966,
+				"heightScale": 0,
+				"heightOffset": 540,
+				"xScale": 0,
+				"xOffset": -6,
+				"yScale": 0,
+				"yOffset": 0,
+				"text": "",
+				"enable": false
+			}
+		}],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerGlobal",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerONS",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerAlert",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerSystem",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	},
+	{
+		"child": [],
+		"payload": {
+			"className": "Generic/Image",
+			"objectName": "LayerDebug",
+			"widthScale": 1,
+			"widthOffset": 0,
+			"heightScale": 1,
+			"heightOffset": 0,
+			"xScale": 0,
+			"xOffset": 0,
+			"yScale": 0,
+			"yOffset": 0,
+			"text": "",
+			"enable": false
+		}
+	}],
+	"payload": {
+		"className": "Generic/Image",
+		"objectName": "preViewRoot",
+		"widthScale": 0,
+		"widthOffset": 1280,
+		"heightScale": 0,
+		"heightOffset": 540,
+		"xScale": 0,
+		"xOffset": 0,
+		"yScale": 0.092000,
+		"yOffset": 0,
+		"text": "",
+		"enable": false
+	}
+}

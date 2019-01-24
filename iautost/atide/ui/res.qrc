@@ -1,0 +1,55 @@
+<RCC>
+<qresource>
+    <file>icon/change.png</file>
+    <file>icon/clear.png</file>
+    <file>icon/copy.png</file>
+    <file>icon/delete.png</file>
+    <file>icon/exit.png</file>
+    <file>icon/find.png</file>
+    <file>icon/hide.png</file>
+    <file>icon/icon.png</file>
+    <file>icon/multi.png</file>
+    <file>icon/multi2.png</file>
+    <file>icon/open.png</file>
+    <file>icon/refresh.png</file>
+    <file>icon/report.png</file>
+    <file>icon/run.png</file>
+    <file>icon/save.png</file>
+    <file>icon/saveAll.png</file>
+    <file>icon/saveAs.png</file>
+    <file>icon/screenCapture.png</file>
+    <file>icon/screenCapture2.png</file>
+    <file>icon/search.png</file>
+    <file>icon/setting.png</file>
+    <file>icon/stop.png</file>
+    <file>icon/tbox.png</file>
+    <file>icon/tree.png</file>
+    <file>icon/import.png</file>
+    <file>icon/assistanter.png</file>
+    <file>icon/touch.png</file>
+    <file>icon/text.png</file>
+    <file>icon/snapshot.png</file>
+    <file>icon/keyevent.png</file>
+    <file>icon/swipe.png</file>
+    <file>icon/flick.png</file>
+    <file>icon/pinch.png</file>
+    <file>icon/default.png</file>
+    <file>icon/connect.png</file>
+    <file>icon/navigator.png</file>
+    <file>icon/windows.png</file>
+    <file>icon/android.png</file>
+    <file>icon/ios.png</file>
+    <file>icon/iauto.png</file>
+    <file>icon/rec.png</file>
+    <file>icon/rec2.png</file>
+    <file>icon/sleep.png</file>
+    <file>icon/branch_open.png</file>
+    <file>icon/branch_closed.png</file>
+    <file>icon/branch_more.png</file>
+    <file>icon/vline.png</file>
+    <file>icon/branch_end.png</file>
+    <file>icon/default_toolbar.png</file>
+    <file>icon/delete2.png</file>
+    <file>icon/add.png</file>
+</qresource>
+</RCC>

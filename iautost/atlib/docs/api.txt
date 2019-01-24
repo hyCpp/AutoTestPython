@@ -1,0 +1,39 @@
+﻿autost api 20180822
+
+1.车辆信号操作
+acc_on()
+acc_off()
+bup_on()
+bup_off()
+rev_on()
+rev_off()
+ig_on()
+ig_off()
+usb_on(port)
+usb_off(port)
+boot()
+reboot()
+
+2.画面操作和判断
+keyevent(key)			#key in enum(KEY_HOME/KEY_MENU/KEY_VOLUMNP_UP/KEY_VOLUMN_DOWN)
+touch(pic)
+touch_if(pic)
+touch_in(pic, pic2)
+touch_or(pic, pic2)
+long_touch(pic, duration=2.0)
+swipe(pic, pic2)
+flick(pic, dir)			#dir in enum(DIR_UP/DIR_DOWN/DIR_LEFT/DIR_RIGHT/DIR_UP_LEFT/DIR_UP_RIGHT/DIR_DOWN_LEFT/DIR_DOWN_RIGHT)
+pinch(pos, scale)		#for example, pinch((400,240), 0.9)
+exists(pic)			#return true or false
+assert_exists(pic)
+assert_not_exists(pic)
+
+poco(**kwargs).click()		#for example, poco(text='Source').click()
+poco(**kwargs).exists()		#return true or false
+poco(**kwargs).wait_for_appearance()
+poco(**kwargs).wait_for_disappearance()
+
+3.环境部署相关
+auto_setup()
+connect_device(device_uri)
+disconnect_device(device_uri)
